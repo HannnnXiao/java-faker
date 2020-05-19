@@ -31,3 +31,8 @@ Then the method `countryCode2()`, `countryCode3()`, `name()`, `capital()`, `curr
 
 ## Run Checkstyle, FindBugs, and PMD
 
+![checkstyle](https://github.com/HannnnXiao/java-faker/blob/master/modified/checkstyle.png)
+
+![findbugs](https://github.com/HannnnXiao/java-faker/blob/master/modified/findbugs.png)
+
+![pmd](https://github.com/HannnnXiao/java-faker/blob/master/modified/pmd.png)
